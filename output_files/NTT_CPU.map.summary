@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed Jan 06 20:04:56 2021
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : NTT_CPU
+Top-level Entity Name : DE10_LITE_Golden_Top
+Family : MAX 10
+Total logic elements : 274
+    Total combinational functions : 233
+    Dedicated logic registers : 100
+Total registers : 100
+Total pins : 30
+Total virtual pins : 0
+Total memory bits : 65,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
